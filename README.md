@@ -31,6 +31,7 @@ Maintained alongside the Muse tutorials & income-play guides at **[aiextracash.c
 - [🙋 Personal](#personal) (2)
 - [📱 Social](#social) (2)
 - [TODO: cases needing a verifiable source](#todo-cases-needing-a-verifiable-source)
+- [🧩 Prompts to try](prompts/) — copy-paste blocks, kept separate from the verified use cases above
 - [Related resources](#related-resources)
 - [Open questions / known gaps](#open-questions--known-gaps)
 - [Contributing](#contributing)
@@ -270,7 +271,7 @@ This is a first pass. Worth revisiting:
 
 1. **Verification depth.** We pulled descriptions as summarized by the source site, not by re-reading every original X post. Financial figures ($3,500/year insurance savings, $1,200/year subscriptions, etc.) are as-claimed by the poster, unverified by us.
 2. **Freshness.** Muse is a fast-moving product (still inside its first ~30-day hype window as of this writing). Some of these workflows may stop working, get gated behind approval flows, or get deprecated. No entry has been re-tested.
-3. **Naming/scope.** Is this list scoped to *real user reports* only (current approach), or should it also include a "prompts to try" section like the sibling repo above? Keeping those separate avoids mixing "this really happened" with "you could try this."
+3. ~~**Naming/scope.**~~ **Resolved 2026-09-23**: this list stays scoped to *real user reports* only. Prompts to try now live in a separate [`/prompts`](prompts/) folder instead of a sibling repo, each one tied to a specific aiextracash.com guide for context — keeps "this really happened" and "you could try this" from bleeding into each other while still living in one repo.
 
 ## Contributing
 
