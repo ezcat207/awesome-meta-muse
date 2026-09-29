@@ -264,6 +264,7 @@ These are widely-cited Muse stories — some referenced in our own earlier [aiex
 - [Anil-matcha/awesome-meta-muse-agent](https://github.com/Anil-matcha/awesome-meta-muse-agent) — a complementary list: copy-paste **agent briefs/prompt templates** (Chief of Staff, Travel Planner, Subscription Auditor, etc.) rather than real-world case links. Good pairing with this repo — use their briefs to *recreate* the use cases documented here.
 - [musecases.netlify.app](https://musecases.netlify.app/) — the source catalog this list was built from.
 - [aiextracash.com/tools/muse](https://aiextracash.com/tools/muse/) — how-to tutorials and income-play guides built from cases like these.
+- [Powerup Packs](https://poweruppacks.com) — one-time-purchase powerup packs (skill + persona + automations + memory) that install persistent coaching systems into Meta Muse: marathon training, strength, nutrition, prayer, and Bible study. $19 one-time per pack; free Daily Devotional Lite trial.
 
 ## Open questions / known gaps
 
